@@ -11,6 +11,7 @@ A single-player platformer game inspired by *Five Nights at Freddy's*
 - Game logic
 - Object-oriented programming (OOP)
 - Simple graphics design
+
 The game challenges players to survive the night by staying alert and using a variety of key controls to protect themselves from mysterious threats lurking around.
 
 
