@@ -30,4 +30,5 @@ AfterMidnight brings the suspense and tension of survival horror to life. Inspir
 
 https://github.com/user-attachments/assets/b4ab2ab7-04d1-4905-a258-aaa7d33ce3aa
 
+![5pqC+B](https://github.com/user-attachments/assets/22faebf5-cd7c-4288-8b9a-fda186837bdc)
 
