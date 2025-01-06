@@ -4,6 +4,8 @@ A single-player platformer game inspired by *Five Nights at Freddy's*
 
 **Note:** The original name of the game, **One Night with Fritz**, was kept secret during development to avoid spoilers.
 
+⚡ This game was created during a Game Jam week at the bootcamp, just 4 weeks into learning Java! ⚡
+
 # overview
 
 **AfterMidnight** is a suspenseful single-player game built in **Java**, showcasing fundamental skills in:
